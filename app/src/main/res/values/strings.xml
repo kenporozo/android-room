@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Prueba2</string>
+    <string name="hint_calle">Calle</string>
+    <string name="hint_numero">Numero</string>
+    <string name="hint_medicion">Medicion</string>
+    <string name="btn_guardar">Guardar medicion</string>
+    <string name="btn_ver">Ver datos</string>
+    <string name="radio_btn_energia">Energia electrica</string>
+    <string name="radio_btn_agua_potable">Agua potable</string>
+    <string name="radio_ver_energia">Ver solo energia electrica</string>
+    <string name="radio_ver_agua">Ver solo agua potable</string>
+    <string name="radio_ver_todos">Ver todos</string>
+    <string name="btn_mostrar">Mostrar</string>
+</resources>
